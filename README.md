@@ -264,10 +264,9 @@ See the `LICENSE` file for full details.
 ## 📬 Contact
 
 Project Repository:
-https://github.com/yourusername/emoanalyzer
+https://github.com/faisalshahzadnadeem/-EmoAnalyzer-Multilingual-Emotion-Sentiment-Intelligence
 
-Issues & Feature Requests:
-https://github.com/yourusername/emoanalyzer/issues
+
 
 ---
 
